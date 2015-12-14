@@ -2,7 +2,7 @@
 /*
 Plugin name: Manual cron
 Version: 1.0.0
-Description: Triggers wp-cron by an AJAX call and displays possible output.
+Description: Triggers WP-cron from a Dashboard widget and displays output.
 Plugin URI: https://github.com/szepeviktor/manual-cron
 License: The MIT License (MIT)
 Author: Viktor Szépe
