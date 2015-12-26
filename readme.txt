@@ -4,7 +4,7 @@ Donate link: https://szepe.net/wp-donate/
 Tags: cron, wp-cron, cron job, manual, execute
 Requires at least: 4.0
 Tested up to: 4.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 
 Triggers WP-cron from a Dashboard widget and displays output.
@@ -14,7 +14,7 @@ Triggers WP-cron from a Dashboard widget and displays output.
 Execute WP-cron manually by clicking a button on the Dashboard.
 WP-cron is WordPress' scheduler system, it can execute background jobs like plugin updates.
 
-Manual Cron is a dashboard widget available for every user.
+Manual Cron is a **Dashboard widget** available for every user.
 
 If you have poorly written plugins WP-cron's output may not be empty.
 
@@ -32,9 +32,12 @@ Development goes on on [GitHub](https://github.com/szepeviktor/manual-cron).
 = What is the use case for Manual Cron? =
 
 1. You can execute cron jobs without leaving WordPress admin.
-1. Develepment sites have usually WP-cron disabled.
+1. Develepment sites usually have WP-cron disabled.
 
 == Changelog ==
+
+= 1.0.1 =
+* Proper JavaScript.
 
 = 1.0.0 =
 * Initial release.
