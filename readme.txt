@@ -7,7 +7,7 @@ Tested up to: 4.4
 Stable tag: 1.0.1
 License: GPLv2
 
-Triggers WP-cron from a Dashboard widget and displays output.
+Triggers WP-cron from a Dashboard widget and displays cron output.
 
 == Description ==
 

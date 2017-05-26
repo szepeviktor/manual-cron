@@ -7,6 +7,7 @@
     }
 
     $('#manual-cron').click(function () {
+        // @TODO Display spinner, disable click()
         $.ajax({
             url: MANCRON.url,
             method: 'POST',
